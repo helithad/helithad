@@ -1,5 +1,5 @@
 Helitha D.
-- Engineering Science - UOA
+- Engineering Science - UoA
 
 <!---
 helithad/helithad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
