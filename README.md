@@ -1,4 +1,4 @@
-- Helitha D.
+Helitha D.
 - Engineering Student
 
 <!---
